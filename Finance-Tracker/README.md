@@ -6,6 +6,7 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Insights-412991?style=for-the-badge&logo=openai)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 </div>
 
@@ -266,7 +267,7 @@ npm run build
 
 ## License
 
-This project is distributed under the ISC license unless otherwise stated.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
